@@ -1,4 +1,4 @@
-# Investigación #1 - Seguridad en C# y Windows Forms
+# Charla #1 - Seguridad en C# y Windows Forms
 
 **Fecha:** 06/10/2026
 
